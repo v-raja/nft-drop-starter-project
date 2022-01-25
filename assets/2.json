@@ -1,0 +1,19 @@
+{
+  "name": "Bob Dylan",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FW3o8CUBwdNivQZyDRnHK2vkphSeu5x8mU3b936JpYGr",
+        "share": 100
+      }
+    ]
+  }
+}

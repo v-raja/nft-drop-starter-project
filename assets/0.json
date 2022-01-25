@@ -1,0 +1,19 @@
+{
+  "name": "Matrix",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FW3o8CUBwdNivQZyDRnHK2vkphSeu5x8mU3b936JpYGr",
+        "share": 100
+      }
+    ]
+  }
+}

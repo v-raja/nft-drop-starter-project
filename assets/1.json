@@ -1,0 +1,19 @@
+{
+  "name": "Neil Young",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FW3o8CUBwdNivQZyDRnHK2vkphSeu5x8mU3b936JpYGr",
+        "share": 100
+      }
+    ]
+  }
+}
